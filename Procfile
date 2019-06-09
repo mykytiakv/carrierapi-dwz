@@ -1,0 +1,1 @@
+web: gunicorn carrier_api.wsgi
